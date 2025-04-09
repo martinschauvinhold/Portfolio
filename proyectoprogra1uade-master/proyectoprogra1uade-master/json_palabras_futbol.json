@@ -1,0 +1,261 @@
+{
+  "fútbol": [
+    "Deporte en el que dos equipos compiten para marcar goles en la portería del rival.",
+    "El deporte más popular del mundo."
+  ],
+
+  "penalti": [
+    "Tiro desde el punto de penalti debido a una infracción en el área.",
+    "Oportunidad clara de marcar un gol."
+  ],
+  "árbitro": [
+    "Persona que se encarga de hacer cumplir las reglas del juego.",
+    "Figura de autoridad en el campo de juego."
+  ],
+  "equipo": [
+    "Conjunto de jugadores que compiten juntos en un partido.",
+    "Unidad organizada que colabora para ganar el partido."
+  ],
+  "entrenador": [
+    "Persona que dirige las tácticas y estrategias de un equipo.",
+    "Responsable de mejorar el rendimiento de los jugadores."
+  ],
+  "zidane": [
+    "Exfutbolista y entrenador francés, famoso por su talento y visión de juego.",
+    "Lideró a Francia a ganar la Copa del Mundo de Mil novecientos noventa y ocho."
+  ],
+  "ronaldinho": [
+    "Futbolista brasileño conocido por su técnica, habilidades y alegría en el campo.",
+    "Ganó el Balón de Oro en dos mil cinco."
+  ],
+  "neymar": [
+    "Futbolista brasileño reconocido por su habilidad, velocidad y regate.",
+    "Jugador clave en la selección brasileña y el PSG."
+  ],
+  "mbappé": [
+    "Futbolista francés, conocido por su velocidad y capacidad para marcar goles.",
+    "Considerado uno de los mejores jugadores jóvenes del mundo."
+  ],
+  "iniesta": [
+    "Futbolista español que marcó el gol de la victoria en la final de la Copa del Mundo de dos mil diez.",
+    "Reconocido por su habilidad técnica y visión de juego."
+  ],
+  "puyol": [
+    "Exdefensa español conocido por su liderazgo y fortaleza en la defensa del FC Barcelona y la selección española.",
+    "Fue capitán del Barcelona por varios años."
+  ],
+  "beckenbauer": [
+    "Exfutbolista y entrenador alemán, conocido como 'El Káiser'.",
+    "Considerado uno de los mejores defensas de la historia."
+  ],
+  "cruyff": [
+    "Exfutbolista y entrenador holandés, creador del 'fútbol total'.",
+    "Reconocido por su influencia en el estilo de juego del Barcelona."
+  ],
+  "maldini": [
+    "Exfutbolista italiano, considerado uno de los mejores defensas de todos los tiempos.",
+    "Jugó toda su carrera en el AC Milan."
+  ],
+
+  "delantero": [
+    "Jugador cuya principal función es marcar goles.",
+    "Juega en la zona ofensiva del campo."
+  ],
+  "defensa": [
+    "Jugador encargado de proteger su portería y evitar los ataques del rival.",
+    "Juega en la zona defensiva del campo."
+  ],
+  "mediocampo": [
+    "Zona central del campo donde juegan los centrocampistas.",
+    "Área clave para controlar el juego."
+  ],
+  "portería": [
+    "Estructura en la que se debe introducir el balón para marcar gol.",
+    "Compuesta de dos postes y un travesaño."
+  ],
+  "offside": [
+    "Infracción que ocurre cuando un jugador está más cerca de la portería contraria que el penúltimo defensor al recibir el balón.",
+    "Regla básica del fútbol."
+  ],
+  "amarilla": [
+    "Advertencia que se le da a un jugador por comportamiento antideportivo.",
+    "Dos tarjetas amarillas equivalen a una roja."
+  ],
+  "corner": [
+    "Tiro de esquina que se concede cuando la pelota cruza la línea de fondo después de tocar a un jugador del equipo defensor.",
+    "Situación clave en muchas jugadas de ataque."
+  ],
+  "falta": [
+    "Infracción cometida por un jugador al contravenir las reglas del juego.",
+    "Provoca un tiro libre o penalti."
+  ],
+  "penal": [
+    "Falta grave cometida dentro del área que da lugar a un tiro desde el punto de penalti.",
+    "Situación de alto riesgo para el equipo defensor."
+  ],
+  "remate": [
+    "Acción de golpear el balón para intentar marcar un gol.",
+    "Puede hacerse con el pie, cabeza u otras partes del cuerpo permitidas."
+  ],
+  "táctica": [
+    "Estrategia empleada por el entrenador para organizar al equipo en el campo.",
+    "Elemento clave para dominar el juego."
+  ],
+
+  "sustitución": [
+    "Cambio de un jugador por otro durante el partido.",
+    "Cada equipo tiene un número limitado de cambios."
+  ],
+  "prórroga": [
+    "Tiempo adicional que se juega cuando un partido termina en empate después de los noventa minutos reglamentarios.",
+    "Dos tiempos de quince minutos."
+  ],
+  "penaltis": [
+    "Método de desempate utilizado al final de un partido que ha terminado en empate.",
+    "Consiste en una tanda de tiros desde el punto de penalti."
+  ],
+  "campeonato": [
+    "Competición en la que varios equipos o selecciones compiten por un título.",
+    "Ejemplo: Copa del Mundo."
+  ],
+  "amistoso": [
+    "Partido que se juega sin ser parte de una competición oficial.",
+    "Generalmente usado para practicar y probar tácticas."
+  ],
+  "torneo": [
+    "Serie de partidos jugados entre equipos para determinar un campeón.",
+    "Puede ser eliminatorio o por puntos."
+  ],
+  "centrocampista": [
+    "Jugador que actúa en la zona media del campo.",
+    "Su función es ayudar tanto en ataque como en defensa."
+  ],
+  "extremo": [
+    "Jugador que juega en la banda y cuya función principal es desbordar y centrar el balón.",
+    "Suele ser rápido y habilidoso."
+  ],
+  "cancha": [
+    "Superficie donde se juega el partido de fútbol.",
+    "Generalmente de césped natural o artificial."
+  ],
+  "balón": [
+    "Esfera que se utiliza en el fútbol para jugar.",
+    "Hecho de materiales sintéticos o de cuero."
+  ],
+  "camiseta": [
+    "Prenda del uniforme de un equipo que los jugadores llevan en la parte superior del cuerpo.",
+    "Parte del uniforme de un equipo."
+  ],
+  "messi": [
+    "Jugador argentino considerado uno de los mejores futbolistas de la historia.",
+    "Ha ganado múltiples Balones de Oro y es el máximo goleador del Barcelona."
+  ],
+  "ronaldo": [
+    "Futbolista portugués considerado uno de los mejores de todos los tiempos.",
+    "Conocido por su velocidad, fuerza y capacidad goleadora."
+  ],
+  "maradona": [
+    "Futbolista argentino, famoso por su habilidad y el gol conocido como 'La Mano de Dios'.",
+    "Considerado uno de los mejores jugadores de la historia."
+  ],
+  "buffon": [
+    "Portero italiano considerado uno de los mejores en la historia del fútbol.",
+    "Ha jugado en la Juventus y ha ganado múltiples títulos con su club y selección."
+  ],
+  "gerrard": [
+    "Exfutbolista inglés, leyenda del Liverpool.",
+    "Conocido por su liderazgo y capacidad para anotar goles decisivos."
+  ],
+  "henry": [
+    "Exfutbolista francés, leyenda del Arsenal y del FC Barcelona.",
+    "Ganó la Copa del Mundo con Francia en Mil novecientos noventa y ocho."
+  ],
+  "advertencia": [
+    "Acto por el cual el árbitro apercibe y censura verbalmente al infractor, el cual en ningún caso recibe sanción alguna por la infracción cometida.",
+    "También denominado «apercibimiento»."
+  ],
+  "amonestación": [
+    "Sanción disciplinaria de la que se dará parte a la autoridad competente"
+  ],
+  "expulsión": [
+    "Sanción disciplinaria en la que se obliga al jugador a abandonar el terreno de juego (y sus inmediaciones) por lo que resta de partido"
+  ],
+  "ventaja": [
+    "Concesión por la cual el árbitro permite que el juego continúe tras cometerse una infracción, en el caso de que esta decisión beneficie al equipo que ha sufrido dicha infracción."
+  ],
+  "arquero": ["Guardianes de la portería"],
+  "defender": [
+    "Acto de trabajar en equipo para impedir que el equipo contrario haga un gol."
+  ],
+  "asistencia": [
+    "Resultado de la contribución de un jugador a la jugada que concluyó en un gol"
+  ],
+  "contraataque": [
+    "Una estrategia ofensiva rápida que aprovecha los espacios abiertos dejados por el equipo contrario durante su ataque."
+  ],
+  "calcio": [
+    "Los italianos usan este término para referirse al fútbol. ",
+    "Viene de la palabra «calciare» que significa «chutar»."
+  ],
+  "rabona": [
+    "Se trata de un movimiento vistoso en el que el jugador pasa una pierna por detrás de la otra para golpear el balón.",
+    "Se suele utilizar para sorprender a los rivales o para tirar con estilo."
+  ],
+  "tijera": [
+    "Movimiento acrobático en el que el jugador salta de medio lado y golpea el balón en el aire."
+  ],
+  "chilena": [
+    "Técnica acrobática que se suele usar cuando un jugador patea el balón por encima de su cabeza."
+  ],
+  "pelota": ["Elemento esférico en torno al que gira un partido de fútbol."],
+  "capitán": [
+    "Jugador que lidera al equipo dentro y fuera del campo.",
+    "Es el encargado de comunicarse con el árbitro."
+  ],
+  "interceptar": [
+    "Cuando un jugador corta o desvía la trayectoria de otro, impidiéndole avanzar."
+  ],
+  "jugador": ["Persona que practica este deporte y forma parte de un equipo."],
+  "liga": [
+    "Asociación deportiva integrada por clubes y sociedades anónimas que participan en las categorías profesionales"
+  ],
+  "bicicleta": [
+    "Movimiento técnico que simula un cambio de dirección para desorientar al oponente."
+  ],
+  "cabezazo": ["Acción de golpear la pelota con la cabeza."],
+  "goleada": ["Victoria por un amplio margen de goles."],
+  "gambeta": [
+    "Habilidad de un jugador para esquivar oponentes con movimientos rápidos."
+  ],
+  "canillera": ["Protección para las piernas usada durante el juego."],
+  "pelotazo": ["Disparo fuerte y directo del balón."],
+  "suplente": [
+    "Jugador que no inicia el partido y puede entrar en sustitución de otro."
+  ],
+  "barrera": ["Formación de jugadores para bloquear un tiro libre directo."],
+  "benzema": [
+    "Delantero francés con excelente técnica y capacidad goleadora.",
+    "Ha jugado la mayor parte de su carrera en el Real Madrid."
+  ],
+  "modric": [
+    "Centrocampista croata reconocido por su visión de juego y precisión.",
+    "Ganó el Balón de Oro en 2018."
+  ],
+  "lewandowski": [
+    "Delantero polaco conocido por su capacidad goleadora.",
+    "Ha sido una pieza clave en equipos como Bayern Múnich y FC Barcelona."
+  ],
+
+  "goleador": [
+    "Jugador destacado por marcar un gran número de goles.",
+    "Generalmente ocupa posiciones ofensivas."
+  ],
+  "bernabeu": [
+    "Estadio del Real Madrid, uno de los más prestigiosos del mundo.",
+    "Ubicado en Madrid, España, ha sido escenario de numerosas finales."
+  ],
+  "maracana": [
+    "Estadio icónico ubicado en Río de Janeiro, Brasil.",
+    "Ha sido sede de finales de Copa del Mundo y otros eventos históricos."
+  ]
+}
